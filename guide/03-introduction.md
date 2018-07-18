@@ -40,7 +40,7 @@ We’ve invested in operationalizing it on an organizational level (Allspaw,
 >
 > (Etsy, Inc., 2015)
 
-How a postmortem[1][] debriefing (hereafter “debriefing”) is done (in whatever
+How a postmortem[1] debriefing (hereafter “debriefing”) is done (in whatever
 form it takes) is at the core of the approach, and therefore hinges on the
 expertise of the debriefing facilitator. Over the years, we have developed an
 internal course at Etsy focused on building a strong bench of debriefing
