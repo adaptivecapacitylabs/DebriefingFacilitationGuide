@@ -59,7 +59,7 @@ sharpen their debriefing facilitation skills.
 
 
 
-1 Postmortem in this sense could be seen as an ‘after-action review’ or
+[1]: Postmortem in this sense could be seen as an ‘after-action review’ or
 ‘incident review.’ The term is unfortunately inaccurate and confusing across
 domains (such as medicine), but is nevertheless part of the software domain
 lexicon at the current time.

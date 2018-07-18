@@ -270,7 +270,7 @@ them both with the questions you ask. You are there to give the people doing
 the work a voice, but in order for them to speak candidly, they have to feel
 safe—not just in the room, but in the community. Fear of retribution or
 punishment (even the subtle social kind) will silence participants. Without
-this[5][], it is nearly impossible to have effective debriefings.
+this[5], it is nearly impossible to have effective debriefings.
 
 There is never one right question, and your inquiry skills will develop over
 time and with practice.  It’s important to rely on what is at play in the room

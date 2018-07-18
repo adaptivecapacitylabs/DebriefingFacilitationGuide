@@ -14,7 +14,7 @@ your debriefing.
 ## Familiarize Yourself With the Timeline in Advance
 Before the debriefing, facilitators need to get a sense of the flow of events,
 without forming opinions about what happened. You’ll want to gather whatever
-objective data[2][] is available and construct a timeline of events.
+objective data[2] is available and construct a timeline of events.
 
 The initial timeline should be created by the people closest to the event.
 Generally, they are responsible for coming up with the basic structure of a
@@ -31,7 +31,7 @@ cover everything. Learning can always go on forever! Reading through the
 initial timeline beforehand will let you structure the meeting and guide the
 discussion in a way that ensures you’ll get through everything.
 
-2 “Objective Data is directly observable: Able to be seen, heard, touched,
+[2]: “Objective Data is directly observable: Able to be seen, heard, touched,
 smelled, tasted, counted, or measured (does not contain conjecture, conclusion
 or opinion).” - (USDA Forest Service, 2014)
 
@@ -135,7 +135,7 @@ process that benefits from everyone’s input.
 
 Note: Not every organization will be comfortable with open access to debriefing
 data. While this document cannot cover the complex dynamics of what constitutes
-a “Just Culture”[3][], we believe this access is critical to the process.
+a “Just Culture”[3], we believe this access is critical to the process.
 
 ## Setting Expectations
 In order to make sure everybody in the room understands the importance and
@@ -239,7 +239,7 @@ be very specific, others very broad, and some might apply to different systems
 altogether.
 
 Ultimately, you want to create remediations that are specific, measurable,
-achievable, relevant and time-bound[4][], but don’t dismiss ideas that don’t
+achievable, relevant and time-bound[4], but don’t dismiss ideas that don’t
 conform to that criteria right off the bat. Instead collect all the ideas as a
 brainstorming list. Then choose a small set of people from the meeting who were
 close to the incident and are familiar with the systems mentioned, tasking them
